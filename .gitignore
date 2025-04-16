@@ -173,5 +173,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Custom additions
+########  Custom additions #########
+
 .DS_Store
+
+# Virtual environments
+*_venv
