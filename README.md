@@ -4,8 +4,14 @@ Un unordered collection of data science projects, for fun and for learning
 
 <br/>
 
-#### Open Dataset repositories
+### Data Science related repositories
 
+* [Packt publishing](https://github.com/PacktPublishing)
+
+
+<br/><br/>
+
+#### Open Dataset repositories
 
 * [UCI Machine Learning repository](https://archive.ics.uci.edu/datasets)
 * [Dati COVID ufficiali della protezione civile italiana](https://github.com/pcm-dpc/COVID-19)
