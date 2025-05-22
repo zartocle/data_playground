@@ -180,3 +180,4 @@ cython_debug/
 # Virtual environments
 *_venv
 *.csv
+.idea/*
