@@ -259,3 +259,5 @@ fabric.properties
 
 # Virtual environments
 *_venv
+*.csv
+.idea/*
