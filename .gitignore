@@ -51,15 +51,10 @@ coverage.xml
 .pytest_cache/
 cover/
 
-# Translations
 *.mo
 *.pot
-
-# Django stuff:
 *.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
+*.csv
 
 # Flask stuff:
 instance/
@@ -165,7 +160,7 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
+.idea/
 
 # Ruff stuff:
 .ruff_cache/
@@ -179,5 +174,3 @@ cython_debug/
 
 # Virtual environments
 *_venv
-*.csv
-.idea/*
