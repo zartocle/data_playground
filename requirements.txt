@@ -1,0 +1,13 @@
+# You can create the requirements file with:
+# pip freeze > requirements.txt
+
+# Questo e' un file requirements improntato alla datasaiens
+numpy==2.2.6
+pandas==2.2.3
+matplotlib==3.10.3
+plotly==6.1.1
+#torch==2.7.0   # richiede 2GB circa
+#scikit_learn==1.6.1
+
+black==25.1.0
+ucimlrepo==0.0.7   # The UCI ML repository
