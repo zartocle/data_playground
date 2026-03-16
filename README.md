@@ -19,6 +19,7 @@ Un unordered collection of data science projects, for fun and for learning
 
 #### Open Dataset repositories
 
+* [NaturalEarth](https://www.naturalearthdata.com/) - repository of public domain vector map datasets
 * [UCI Machine Learning repository](https://archive.ics.uci.edu/datasets)
 * [Dati COVID ufficiali della protezione civile italiana](https://github.com/pcm-dpc/COVID-19)
 * [Elenco di dataset pubblici italiani](https://github.com/italia/awesome-italian-public-datasets)
