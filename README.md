@@ -8,7 +8,7 @@ Un unordered collection of data science projects, for fun and for learning
 
 ### Data Science learning repositories
 
-* Carlos Fernandez Granda's [Excellent Video lessons collection](https://www.youtube.com/playlist?list=PLBEf5mJtE6KuZ5NBQMuWIMsiOOrV9ibzm)
+* Carlos Fernandez Granda's [Excellent Video lessons collection](https://www.youtube.com/playlist?list=PLBEf5mJtE6KuZ5NBQMuWIMsiOOrV9ibzm) and [GitHub repository](https://github.com/cfgranda/ps4ds)
 * [Model to meaning](https://marginaleffects.com/), or how to interpret statistical models (with R and Python module)
 * [Stanford's class on causal inference](https://stanford-causal-inference-class.github.io/index.html) for undergraduates
 * Andrew Heiss' blog [HERE the part on marginal effects](https://www.andrewheiss.com/blog/2022/05/20/marginalia/)
